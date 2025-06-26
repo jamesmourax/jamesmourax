@@ -1,5 +1,5 @@
 ## Olá, Meu nome é James Moura
-Sou estudante de cibersegurança, com interesse por segurança ofensiva e pesquisa em aplicações web. Estou constantemente fazendo anotações dos estudos, criando scripts e resolvendo labs, CTFs para reforçar meu aprendizado.
+Sou estudante de cibersegurança, com interesse por segurança ofensiva. Estou constantemente fazendo anotações dos estudos, criando scripts e resolvendo labs, CTFs para reforçar meu aprendizado.
 
 ---
 
